@@ -1,6 +1,3 @@
 # ARTICLE BOUT SKIBIDI AND GYATT
 
-lol
-hmm
-ya
-begitulah
+run `lol.py` if you have python and flask installed
